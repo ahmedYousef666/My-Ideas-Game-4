@@ -1,3 +1,5 @@
-git add .github/workflows/build_apk.yml
-  git commit -m "Fix workflow triggers"
-  git push
+git add .github/workflows/build.yml
+
+git commit -m "Fix workflow triggers"
+
+git push
